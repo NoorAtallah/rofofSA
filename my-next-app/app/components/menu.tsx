@@ -21,7 +21,7 @@ const menuItems: MenuItem[] = [
     nameAr: "للمتاجر الإلكترونية",
     nameEn: "For Sellers",
     clipId: "clip-sellers",
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    image: "./5.png",
     description: "وسّع انتشارك عبر شبكة المحلات التجارية"
   },
   {
@@ -29,7 +29,7 @@ const menuItems: MenuItem[] = [
     nameAr: "للمحلات التجارية",
     nameEn: "For Stores",
     clipId: "clip-stores",
-    image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    image: "./6.png",
     description: "احصل على إيرادات إضافية من منتجات جديدة"
   },
   {
@@ -37,7 +37,7 @@ const menuItems: MenuItem[] = [
     nameAr: "للعملاء",
     nameEn: "For Customers",
     clipId: "clip-customers",
-    image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    image: "./7.png",
     description: "استلم طلباتك من أقرب محل بسرعة وسهولة"
   }
 ]
