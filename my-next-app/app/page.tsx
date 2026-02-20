@@ -9,11 +9,11 @@ export default function Home() {
   return (
     <main>
       <RofofHero />
-      <RofofGallery />
+      {/* <RofofGallery />
       <FeaturesSection />
       <CalculatorSection />
       <RofofMenuSection />
-      <RofofFooter />
+      <RofofFooter /> */}
     </main>
   )
 }
